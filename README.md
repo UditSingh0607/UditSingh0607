@@ -46,8 +46,8 @@ I enjoy building scalable backends, developer tools, and solving hard engineerin
 
 | Project | Description | Tech Stack | Link |
 |-------|------------|------------|------|
-| **Groot Version Control** | Git-like version control system with CLI and web dashboard | React 19, Node.js, MongoDB, Docker, JWT | [GitHub](https://github.com/UditSingh0607/groot_vcs) |
-| **Code Sync** | Real-time collaborative code editor | React 19, Node.js, Express, WebSockets, JWT | [GitHub](https://github.com/UditSingh0607/Code_Sync) |
+| **Groot Version Control** | Git-like version control system with CLI and web dashboard | React, Node.js, MongoDB, Docker, JWT | [GitHub](https://github.com/UditSingh0607/groot_vcs) |
+| **Code Sync** | Real-time collaborative code editor | React, Node.js, Express, WebSockets, JWT | [GitHub](https://github.com/UditSingh0607/Code_Sync) |
 | **InterviewPrep** | DSA practice platform with REST APIs | React 19, Node.js, Express, MongoDB | [GitHub](https://github.com/UditSingh0607/Company_ques_website) |
 
 ---
